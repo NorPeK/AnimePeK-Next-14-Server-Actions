@@ -1,6 +1,8 @@
 # AnimePeK: Next.js 14 Server Actions
 
-Welcome to the **AnimePeK** repository! This project leverages the latest **Next.js 14** features, including **Server Actions**, to deliver a powerful and seamless anime browsing experience. Here, you'll find details about the project, its setup, features, and more.
+Welcome to the **AnimePeK** repository! This project leverages the latest **Next.js 14** features, including **Server Actions**, to deliver a powerful and seamless anime browsing experience. Here, you'll find details about the project, its features, and more.
+
+You can explore the live project here: [AnimePeK Live Website](https://anime-pe-k-next-14-server-actions.vercel.app/)
 
 ## 🌟 Features
 
@@ -16,6 +18,9 @@ Welcome to the **AnimePeK** repository! This project leverages the latest **Next
 - **Styling:** CSS Modules, Tailwind CSS (if applicable)
 - **Backend:** Integrated Server Actions
 - **API Calls:** Axios or Fetch
-- **Deployment:** Vercel (recommended)
+- **Deployment:** Vercel 
 
-
+1. **Search Engine:** Implement a powerful search functionality for anime titles.
+2. **Header Links:** Add useful navigation links in the website's header.
+3. **Anime Details Integration:** Link anime titles to their respective pages on MyAnimeList.
+4. **Filters** More Filter options.
