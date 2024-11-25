@@ -1,9 +1,21 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# AnimePeK: Next.js 14 Server Actions
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+Welcome to the **AnimePeK** repository! This project leverages the latest **Next.js 14** features, including **Server Actions**, to deliver a powerful and seamless anime browsing experience. Here, you'll find details about the project, its setup, features, and more.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## 🌟 Features
+
+- **Next.js 14 with Server Actions:** Efficient and modern server-side rendering for faster performance.
+- **Interactive Anime Catalog:** Browse and discover anime with an intuitive user interface.
+- **Dynamic API Integration:** Fetch and display real-time anime data using API calls.
+- **Optimized Performance:** Leverages Next.js optimizations for speed and scalability.
+- **Responsive Design:** Fully responsive UI for desktop and mobile users.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js 14
+- **Styling:** CSS Modules, Tailwind CSS (if applicable)
+- **Backend:** Integrated Server Actions
+- **API Calls:** Axios or Fetch
+- **Deployment:** Vercel (recommended)
+
 
