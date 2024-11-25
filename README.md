@@ -17,7 +17,6 @@ You can explore the live project here: [AnimePeK Live Website](https://anime-pe-
 - **Frontend:** Next.js 14
 - **Styling:** CSS Modules, Tailwind CSS (if applicable)
 - **Backend:** Integrated Server Actions
-- **API Calls:** Axios or Fetch
 - **Deployment:** Vercel 
 
 1. **Search Engine:** Implement a powerful search functionality for anime titles.
